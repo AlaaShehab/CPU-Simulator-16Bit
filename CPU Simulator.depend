@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544204515 source:/home/alaa/Desktop/CPU Simulator/main.c
+	<stdio.h>
+	<stdlib.h>
+
